@@ -1,0 +1,28 @@
+Lawn Bowls Scoreboard.
+Place folder anywhere you like and Create a shortcut to your desktop
+from the Scoreboard.exe for easy startup.
+The text files are for OBS.
+
+Player 1 = scP1.txt
+Player 2 = scP2.txt
+Set Ends = Endsset.txt
+Home = P1.txt 
+Aways = P2.txt 
+Ends = E1.txt 
+
+Warning : Renaming the Text won't work. Leave as is.
+Deleting any part will most likely stop it from working.
+Created in Python. This program will always be free.
+Created by Andrew Power, Urunga Bowling Club NSW.
+
+update 
+add some new code
+It will now stay on top unless you minimize it.
+And fixed it Stop it from resizing by accident.
+Gave a little make over.
+
+Add some graphics
+score bar
+score bar 2
+ends
+blank
