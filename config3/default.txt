@@ -1,0 +1,129 @@
+The original settings
+
+font DejaVuSans.ttf
+font size names 24
+font size ends 20
+
+Config21 
+font select na
+
+Config 
+score 1
+score 2 font size nb
+score 3 font colour nc
+score 4 font colour nd
+score 3 font size ne
+
+Config1 
+score1 1 a 
+score1 2 b 
+score1 3 c 
+score1 4 b 
+score1 5 e
+score1 6 f
+score1 7 g
+score1 8 h
+
+Config2 
+score2 1 e
+score2 2 f
+score2 3 g
+score2 4 h
+score2 5 e1 - e2
+score2 6 z1 - f2
+score2 7 g1 - g2
+score2 8 h1 - h2
+score2 9 k1 - i2
+score2 10 l1 - j2
+
+Config3
+score3 1 i - a 
+score3 2 j - b
+score3 3 k - c
+score3 4 l - d
+score3 5 e2 - e3
+score3 6 z2 - f3
+score3 7 g2 - g3
+score3 8 h2 - h3
+score3 9 k2 - i3
+score3 10 l2 - j3
+ 
+Config4
+score4 1 
+score4 2 n- b
+score4 3
+score4 4 p - d
+score4 5 e3 - e4
+score4 6 z3 - f4
+score4 7 g3 - g4
+score4 8 h3 - h4
+score4 9 k3 - i4
+score4 10 l3 - j4
+ 
+Config5
+score5 m - a
+
+Config6 
+score6 o - c
+
+Config7
+score7 u1
+ 
+Config8 
+score8 u2
+
+Config9
+score9 colour u3
+ 
+Config10
+score10 colour u4
+
+Config11
+score11 colour u5
+
+Config12 
+score12 colour u6
+
+Config18
+score18 1 i
+score18 2 j
+
+Config19 
+score19 1 i
+score19 2 j
+
+Config20 
+score20 1 i
+score20 2 j
+
+bar1
+10,10
+10,60
+250,10
+250,60
+
+bar2
+10,10
+10,60
+250,10
+250,60
+70,108
+
+bar3
+10,50
+10,100
+250,50
+250,100
+70,8
+
+bar4
+70,10
+2300,10
+10,10
+550,10
+322,15
+
+ends pos
+10,105
+10,10
+255,15
