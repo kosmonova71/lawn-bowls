@@ -8,9 +8,7 @@ just run the exe or script
 Get from the obs forum don't use these yet
 
 Written in python
-pip install pillow
-pip install configparser
-pip install matplotlib
+pip install pillow configparser matplotlib
 
 The L version written for linux is what i use
 apple use L version some gui adjustment needed
@@ -23,4 +21,4 @@ Animation No at the moment.
 A pennants version will also be here
 with Master board included.
 
-warning working progress updating 
+warning work progress updating 
