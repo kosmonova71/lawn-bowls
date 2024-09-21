@@ -1,0 +1,154 @@
+The original settings
+
+font DejaVuSans.ttf
+font size names 24
+font size ends 20
+
+bar1 & 2
+10,10
+10,60
+250,10
+250,60
+75,107
+
+bar3
+10,50
+10,100
+250,50
+250,100
+75,8
+
+bar4
+70,10
+230,10
+10,10
+550,10
+322,15
+
+ends pos
+10,105
+10,8
+255,15
+
+text
+scP1.txt
+scP2.txt
+P1.txt
+P2.txt
+E1.txt
+
+Config font select
+score na
+
+Config1 font size 
+score1 nb
+font = ImageFont.truetype(na,int(nb))
+Config2 font size
+score1 nc
+
+Config3 colour save
+score1 nd
+
+Config4 colour save2
+score1 ne
+
+Config5 colour sav3
+score1 nf
+
+Config6 colour save4
+score1 ng
+
+Config7
+score1 a
+score2 b
+
+Config8 postion
+score1 c
+score2 d
+
+Config9
+score1 e
+score2 f
+ 
+Config10
+score1 g
+score2 h
+
+Config11
+score1 i
+score2 j
+
+Config12 
+score1 a1
+score2 b1
+
+Config13 
+score1 c1
+score2 d1
+
+Config14
+score1 e1
+score2 f1
+
+Config15 
+score1 g1
+score2 h1
+
+Config16 
+score1 i1
+score2 j1
+
+Config17
+score1 a2
+
+Config18
+score1 b2
+
+Config19 
+score1 c2
+
+Config20 
+score1 d2
+
+Config21 
+score1 e2
+score2 f2
+
+Config22
+score1 g2
+score2 h2
+
+Config23 
+score1 i2
+score2 j2
+
+Config24 colour save22
+score1 u1
+
+Config25 colour save23
+score1 u2
+
+Config26 colour save24
+score1 u3
+
+Config27 colour save25
+score1 u4
+
+Config28 colour save26
+score1 u5
+
+Config29 colour save27
+score1 u6
+
+Config30 ends bac1 bac2
+score1 a
+score2 b
+
+Config31 ends bac3
+score1 a
+score2 b
+
+Config32 ends bac4
+score1 a
+score2 b
+
