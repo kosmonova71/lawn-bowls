@@ -1,0 +1,31 @@
+The original settings
+
+font DejaVuSans.ttf
+font size names 24
+font size ends 20
+
+bar1 & 2
+10,10
+10,60
+250,10
+250,60
+70,108
+
+bar3
+10,50
+10,100
+250,50
+250,100
+70,8
+
+bar4
+70,10
+230,10
+10,10
+550,10
+322,15
+
+ends pos
+10,105
+10,10
+255,15
